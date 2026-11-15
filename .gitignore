@@ -1,0 +1,14 @@
+data/
+*.mp4
+*.wav
+*.mp3
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+*.egg-info/
+results/*.csv
+!results/.gitkeep
